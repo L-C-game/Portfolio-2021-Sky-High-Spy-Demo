@@ -1,0 +1,5 @@
+﻿  Particle.cpp
+C:\Users\Ickle\Documents\SkyHighSpy\MainGame.h(29,6): warning C4091: 'static ': ignored on left of 'MainGameState' when no variable is declared
+C:\Users\Ickle\Documents\SkyHighSpy\Particle.cpp(33,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ickle\Documents\SkyHighSpy\Particle.cpp(34,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Hello World.vcxproj -> C:\Users\Ickle\Documents\SkyHighSpy\x64\Debug\Hello World.exe

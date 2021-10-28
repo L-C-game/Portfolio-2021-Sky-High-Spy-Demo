@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="MainGame.cpp" />
+    <ClCompile Include="GameObject.cpp" />
+    <ClCompile Include="Asteroid.cpp" />
+    <ClCompile Include="Meteor.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="Gem.cpp" />
+    <ClCompile Include="AsteroidPart.cpp" />
+    <ClCompile Include="Particle.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MainGame.h" />
+    <ClInclude Include="Play.h" />
+    <ClInclude Include="GameObject.h" />
+    <ClInclude Include="Asteroid.h" />
+    <ClInclude Include="Meteor.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="Gem.h" />
+    <ClInclude Include="AsteroidPart.h" />
+    <ClInclude Include="Particle.h" />
+  </ItemGroup>
+</Project>
