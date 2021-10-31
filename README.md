@@ -11,7 +11,7 @@ There are multiple powerup gems to assist Agent 8:
     
     Speed boost,
     
-    Shield,
+    Shield
     
 Each with audio-visual feedback to improve game feel.
 
